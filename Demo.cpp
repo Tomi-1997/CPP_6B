@@ -1,9 +1,4 @@
-/**
- * Demo file for the exercise on iterators
- *
- * @author Tal Zichlinsky
- * @since 2022-02
- */
+
 
 #include <iostream>
 #include <fstream>
